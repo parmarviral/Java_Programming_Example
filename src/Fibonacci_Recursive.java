@@ -19,7 +19,7 @@ public class Fibonacci_Recursive {
         b=a;
         a=sum;
 
-        if(limit>0)
+        if(limit>1)
         {
             limit--;
             fib(limit);
