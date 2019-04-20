@@ -1,4 +1,6 @@
-public class Exercise70 {
+package Java_Practicle.PR_4;
+
+class PR_4_1_str_from {
     public static void main(String[] args) {
         String str1 = "Python";
         String str2 = "Tutorial";
