@@ -11,7 +11,6 @@ public class Knapsack_problem_Solving {
         double maxValue = getMaxValue(wt, val, capacity);
         System.out.println("Maximum value we can obtain = " + maxValue);
     }
-
     private static double getMaxValue(int[] wt, int[] val, int capacity) {
         ItemValue[] iVal = new ItemValue[wt.length];
         for (int i = 0; i < wt.length; i++) {
@@ -39,7 +38,6 @@ public class Knapsack_problem_Solving {
         }
         return totalValue;
     }
-
     static class ItemValue {
         Double cost;
         double wt, val, ind;
