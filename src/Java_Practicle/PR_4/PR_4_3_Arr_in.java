@@ -1,4 +1,6 @@
-public class Arr_len_in {
+package Java_Practicle.PR_4;
+
+class Arr_len_in {
     public static void main(String[] args) {
         int[] num_array = {50, -20, 0, 30, 40, 60, 10};
 

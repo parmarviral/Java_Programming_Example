@@ -1,6 +1,8 @@
+package Java_Practicle.PR_5;
+
 import java.util.Arrays;
 
-public class adj_arr {
+class adj_arr {
     public static void main(String[] args) {
         int[] array_nums = {11, 12, 13, 14, 45, 20};
         System.out.println("Original Array: " + Arrays.toString(array_nums));

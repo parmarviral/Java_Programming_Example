@@ -1,6 +1,8 @@
+package Java_Practicle.PR_4;
+
 import java.util.Arrays;
 
-public class get_arr_len {
+class get_arr_len {
     public static void main(String[] args) {
         int[] array_nums = {20, 30, 40};
         System.out.println("Original Array: " + Arrays.toString(array_nums));

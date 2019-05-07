@@ -1,6 +1,8 @@
+package Java_Practicle.PR_5;
+
 import java.util.Arrays;
 
-public class Count_even_odd {
+class Count_even_odd {
 
     public static void main(String[] args)
 

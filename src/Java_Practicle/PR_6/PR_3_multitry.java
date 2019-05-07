@@ -1,6 +1,8 @@
+package Java_Practicle.PR_6;
+
 import java.util.Scanner;
 
-public class PR_6_3_multitry {
+class PR_6_3_multitry {
     public static void main(String args[]) {
         Scanner s = new Scanner(System.in);
         System.out.println("enter division number");

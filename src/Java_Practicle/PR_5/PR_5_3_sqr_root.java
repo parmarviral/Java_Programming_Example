@@ -1,6 +1,8 @@
+package Java_Practicle.PR_5;
+
 import java.util.Scanner;
 
-public class sqr_root {
+class sqr_root {
     public static void main(String[] args) {
         int num;
         Scanner in = new Scanner(System.in);

@@ -1,6 +1,8 @@
+package Java_Practicle.PR_4;
+
 import java.util.Arrays;
 
-public class arr_crt {
+class arr_crt {
     public static void main(String[] args) {
         int[] array1 = {50, -20, 0};
         int[] array2 = {5, -50, 10};

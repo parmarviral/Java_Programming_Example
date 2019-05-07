@@ -1,6 +1,8 @@
+package Java_Practicle.PR_4;
+
 import java.util.Arrays;
 
-public class RTT_arr {
+class RTT_arr {
     public static void main(String[] args) {
         int[] array_nums = {20, 30, 40};
         System.out.println("Original Array: " + Arrays.toString(array_nums));

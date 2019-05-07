@@ -1,4 +1,6 @@
-public class strcat {
+package Java_Practicle.PR_4;
+
+class strcat {
     public static void main(String[] args) {
         String str1 = "Viral";
         String str2 = "Parmar";

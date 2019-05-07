@@ -1,4 +1,6 @@
-public class src_mtx {
+package Java_Practicle.PR_5;
+
+class src_mtx {
     public static void main(String[] args) {
         // int target = 5;
         int target = 0;
