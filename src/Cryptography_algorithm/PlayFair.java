@@ -1,7 +1,7 @@
 package Cryptography_algorithm;
 
 import java.util.Scanner;
-public class PlayfairCipherDecryption
+class PlayfairCipherDecryption
 {
     private String KeyWord
             = new String();

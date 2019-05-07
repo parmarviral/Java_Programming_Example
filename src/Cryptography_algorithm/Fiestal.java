@@ -1,7 +1,7 @@
 package Cryptography_algorithm;
 import java.io.*;
 import java.util.*;
-public class FeistelCipher {
+class FeistelCipher {
     int cipherFunction(long key, int rightText) {
         int leftKeyBits = (int) (key >> 32);
         int rightKeyBits = (int) (key & 0x00000000ffffffff);
